@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[Sean Sosik-hamor][sean-sosik-hamor] learns by doing. The Litterbox has been converted into a lab for him to learn [Jekyll][jekyll-site] and [Minima][minima] on [Netlify][netlify].
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[sean-sosik-hamor]: https://hamor.com/
+[hamor-photography]: https://hamor.com/
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[jekyll-site]: https://jekyllrb.com/
+[minima]: https://github.com/jekyll/minima
+[netlify]: https://www.netlify.com/
