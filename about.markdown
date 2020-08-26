@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[Sean Sosik-hamor][sean-sosik-hamor] learns by doing. The Litterbox has been converted into a lab for him to learn [Jekyll][jekyll-site] and [Minima][minima] on [Netlify][netlify].
+[Sean Sosik-Hamor][sean-sosik-hamor] learns by doing. The Litterbox has been converted into a lab for him to learn [Jekyll][jekyll-site] and [Minima][minima] on [Netlify][netlify].
 
 Other labs can be found at [SeanSosikHamor.GitHub.io][seansosikhamor-github-io].
 
