@@ -6,7 +6,7 @@ permalink: /about/
 
 [Sean Sosik-Hamor][sean-sosik-hamor] learns by doing. The Litterbox has been converted into a lab for him to learn [Jekyll][jekyll-site] and [Minima][minima] on [Netlify][netlify].
 
-- [A Step-by-Step Guide: Jekyll 4.0 on Netlify](https://www.netlify.com/blog/2020/04/02/a-step-by-step-guide-jekyll-4.0-on-netlify/)
+Deployment information can be found at: [The Litterbox is now a lab!](/lab/2020/08/06/the-litterbox-is-now-a-lab.html)
 
 Other labs can be found at [SeanSosikHamor.GitHub.io][seansosikhamor-github-io].
 
